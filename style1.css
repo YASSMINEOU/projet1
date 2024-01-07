@@ -1,0 +1,18 @@
+/* style.css */
+
+body {
+    background-color: #0565da;
+}
+
+.container {
+    background-color: #FFFAFA;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+h2 {
+    color: #0565da;
+}
+
+/* You can customize the styles further based on your design preferences */
